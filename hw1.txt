@@ -1,0 +1,20 @@
+targil
+
+create a html page,
+create header <h1...h6> text should be "This is my first header", color should be red.
+create paragraph, <p> text should be  "This is my first paragraph", color should be blue
+create image <img src="">, it should display random image from the internet. size should be 150px on 150px 
+
+Open the page with live server (f12 on windows / right click on page -> inspect) 
+
+Open devtools in chrome, 
+in "Elements" tab:
+try to change color in devtools styles section.
+try to delete some html tags you created. 
+
+open "Network" tab:
+go to www.google.com, check the request.
+
+read about http request and response
+https://www.tutorialspoint.com/http/http_requests.htm
+https://www.tutorialspoint.com/http/http_responses.htm
